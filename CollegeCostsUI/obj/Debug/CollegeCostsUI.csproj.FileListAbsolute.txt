@@ -1,0 +1,10 @@
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\bin\Debug\CollegeCostsUI.exe.config
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\bin\Debug\CollegeCostsUI.exe
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\bin\Debug\CollegeCostsUI.pdb
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.Properties.Resources.resources
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.csproj.GenerateResource.cache
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.exe
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.pdb
+C:\Users\mikem\source\repos\CollegeCostsUI\CollegeCostsUI\obj\Debug\CollegeCostsUI.Form1.resources
